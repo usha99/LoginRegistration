@@ -1,0 +1,90 @@
+#wrapper{
+    border-radius : 10px;
+	background-color: white;
+	border: 3px solid #f1f1f1;
+	width: 500px;
+	margin: 0 auto;
+    height: 100%;
+}
+h2{
+    text-align: center;
+    color: #F13846;
+}
+h3{
+    text-align: center;
+    color: #8B58BD;
+}
+
+body{
+    background-color: rgb(187, 222, 236);
+}
+.detail{
+    width: 430px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.loginForm{
+    width: 450px;
+    margin: 0 auto;
+}
+
+.loginAvtar,.regisAvtar,.HomePage{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+}
+#login{
+ background-color: #3EDBFF;
+ color: rgb(41, 40, 40);
+ padding: 5px;
+ width: 100%;
+ text-align: center;
+ margin-top: 10px;
+ font-size: 18px;
+ font-weight: bold;
+}
+#reg{
+    background-color: #AC98DB;
+    color: rgb(41, 40, 40);
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+   }
+   #sign_up{
+    background-color: #C2CDE7;
+    color: rgb(41, 40, 40);
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    /* margin-bottom: 20px; */
+   }
+   #back_btn{
+    background-color: #F6D397;
+    color: rgb(41, 40, 40);
+    padding: 5px;
+    width: 30%;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+   }
+   #logout{
+    background-color: #BC4996;
+    color: rgb(41, 40, 40);
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+   }
